@@ -1,6 +1,6 @@
 // 📁 src/App.tsx
-import React, { useState, useEffect } from 'react';
-import { Menu, X, MapPin, Phone, Mail, Clock, ChevronRight, Users, Sparkles } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { Menu, X, MapPin, Phone, Mail, Clock, ChevronRight, Users } from 'lucide-react';
 import { siteConfig } from './config/siteConfig';
 
 export default function App() {
